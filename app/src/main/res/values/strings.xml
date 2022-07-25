@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="start_button">Ответить</string>
+    <string name="Hint">Введите ответ</string>
+</resources>
